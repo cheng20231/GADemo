@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093857942271",
+    "firebase_url": "https://gademo-737a0.firebaseio.com",
+    "project_id": "gademo-737a0",
+    "storage_bucket": "gademo-737a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093857942271:android:5c17445d1f0ede93",
+        "android_client_info": {
+          "package_name": "com.example.cheng.gademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093857942271-q7pfjl4tiourmnaooao3m5kpbn0ke948.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheng.gademo",
+            "certificate_hash": "8DB90AEA60CC97BE3595A773CBD5ABD040D61142"
+          }
+        },
+        {
+          "client_id": "1093857942271-pkanjhukhkst6mb8phmci6f7p0fndobp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTouC_UYjQnvzeqdVPUpyyg5iynU4fd5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093857942271-pkanjhukhkst6mb8phmci6f7p0fndobp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
